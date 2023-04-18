@@ -1,2 +1,1 @@
-# catur-ayuwandira
-Catatan Harian
+# ![Project humbnail](thumbnail.jpg)
